@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/contacts-master/static/css/main.12f676f3.css",
+    "main.js": "/contacts-master/static/js/main.ac944908.js",
+    "static/js/787.b18a3044.chunk.js": "/contacts-master/static/js/787.b18a3044.chunk.js",
+    "static/media/applogo.png": "/contacts-master/static/media/applogo.a6a57918b59b8ba9da80.png",
+    "static/media/ram.png": "/contacts-master/static/media/ram.93e5a0098bbc5f08cbf3.png",
+    "static/media/docsperson.png": "/contacts-master/static/media/docsperson.3c1287e38548e1835c95.png",
+    "static/media/aboutperson.png": "/contacts-master/static/media/aboutperson.50797538112d0195dade.png",
+    "static/media/downloadperson.png": "/contacts-master/static/media/downloadperson.4f986510693b670ce2c8.png",
+    "static/media/teamlead.png": "/contacts-master/static/media/teamlead.5b6adb8e38ee506fde52.png",
+    "static/media/emailperson.png": "/contacts-master/static/media/emailperson.f086d988d54d39465ca2.png",
+    "static/media/man.png": "/contacts-master/static/media/man.c8d678ce87c3a6813a29.png",
+    "index.html": "/contacts-master/index.html",
+    "main.12f676f3.css.map": "/contacts-master/static/css/main.12f676f3.css.map",
+    "main.ac944908.js.map": "/contacts-master/static/js/main.ac944908.js.map",
+    "787.b18a3044.chunk.js.map": "/contacts-master/static/js/787.b18a3044.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12f676f3.css",
+    "static/js/main.ac944908.js"
+  ]
+}
